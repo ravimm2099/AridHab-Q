@@ -1,0 +1,1 @@
+Images for attributes 24–37 have been re-imported directly from the supplied image archive. Image URLs now include a revision query to bypass browser caching. Original scoring logic is unchanged. Restart R Shiny and hard-refresh the browser (Ctrl+F5).

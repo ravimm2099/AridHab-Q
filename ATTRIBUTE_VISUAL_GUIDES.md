@@ -1,0 +1,45 @@
+# AridHab-Q: 37 attribute-specific visual field guides
+
+These 37 illustrations are schematic aids, not photographic standards or empirically validated category thresholds. The original 25 published category labels are reproduced from the app's source-derived CSV, including blank categories and documented ambiguities; do not infer a fifth category where none exists. Attributes 26–37 use proposed AridHab-Q rubrics.
+
+**How to use:** Open an assessment tab, select an attribute, inspect the corresponding five-column guide, and choose only an available rating from the app's selector. Record site evidence. A visual guide does not establish seed-bank status, infiltration, temporal recovery or rainfall-adjusted productivity.
+
+**Scientific caution:** The scene illustrations are generic schematic progressions and must not be treated as calibration images or empirical evidence. Refer to the textual rubric and source notes for decisions.
+
+- [01. Removal of plant parts (%)](www/attribute_guides/attribute_01.png)
+- [02. Bare surface area (%)](www/attribute_guides/attribute_02.png)
+- [03. Litter quantity](www/attribute_guides/attribute_03.png)
+- [04. Litter condition](www/attribute_guides/attribute_04.png)
+- [05. Therophyte increase (%) over standard](www/attribute_guides/attribute_05.png)
+- [06. Decline in species richness (%)](www/attribute_guides/attribute_06.png)
+- [07. Age distribution (key species)](www/attribute_guides/attribute_07.png)
+- [08. Vigour](www/attribute_guides/attribute_08.png)
+- [09. Seeds of climax species in soil](www/attribute_guides/attribute_09.png)
+- [10. Botanical composition of climax species](www/attribute_guides/attribute_10.png)
+- [11. Total basal cover (%)](www/attribute_guides/attribute_11.png)
+- [12. Basal cover of climax species (%)](www/attribute_guides/attribute_12.png)
+- [13. RIV of climax species](www/attribute_guides/attribute_13.png)
+- [14. Biomass contribution of climax species (%)](www/attribute_guides/attribute_14.png)
+- [15. Existing biomass as % potential biomass](www/attribute_guides/attribute_15.png)
+- [16. Carrying capacity (ACU/100 ha)](www/attribute_guides/attribute_16.png)
+- [17. Grazing intensity](www/attribute_guides/attribute_17.png)
+- [18. Percent plants showing hedging](www/attribute_guides/attribute_18.png)
+- [19. Browse lines](www/attribute_guides/attribute_19.png)
+- [20. Browsing damage](www/attribute_guides/attribute_20.png)
+- [21. Increase in relative density of unpalatable species](www/attribute_guides/attribute_21.png)
+- [22. Relative density of key/climax species](www/attribute_guides/attribute_22.png)
+- [23. RIV of key/climax species](www/attribute_guides/attribute_23.png)
+- [24. % decline in total number of plants/ha](www/attribute_guides/attribute_24.png)
+- [25. Dominance–diversity curves](www/attribute_guides/attribute_25.png)
+- [26. Biocrust integrity](www/attribute_guides/attribute_26.png)
+- [27. Surface infiltration visual proxy](www/attribute_guides/attribute_27.png)
+- [28. Active soil erosion](www/attribute_guides/attribute_28.png)
+- [29. Vegetation patch connectivity](www/attribute_guides/attribute_29.png)
+- [30. Bare-gap continuity](www/attribute_guides/attribute_30.png)
+- [31. Perennial regeneration](www/attribute_guides/attribute_31.png)
+- [32. Seedling establishment](www/attribute_guides/attribute_32.png)
+- [33. Expected functional groups](www/attribute_guides/attribute_33.png)
+- [34. Perennial forage persistence](www/attribute_guides/attribute_34.png)
+- [35. Vegetation recovery evidence](www/attribute_guides/attribute_35.png)
+- [36. Rainfall-adjusted productivity proxy](www/attribute_guides/attribute_36.png)
+- [37. Soil surface disturbance](www/attribute_guides/attribute_37.png)

@@ -1,0 +1,9 @@
+AridHab-Q HQI v2 corrected application - 27 October 2026
+
+Replaced the release app.R with the latest uploaded app(10).R and corrected the startup rbind column mismatch by harmonizing rubric columns. Preserved original source tables, images, documents, and other release files.
+
+Scoring: rank-position normalized degradation within each indicator's permissible rating categories, equal domain weights, 37 required for final HQI.
+
+Validation: checked source table dimensions, archive integrity and scoring category coverage. R runtime was unavailable in this environment; launch and end-to-end Shiny execution have NOT been tested.
+
+To run: extract ZIP; open AridHab-Q folder as RStudio working directory; run run_app.R or click Run App in app.R.

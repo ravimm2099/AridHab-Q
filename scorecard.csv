@@ -1,0 +1,26 @@
+id,component,attribute,rating_1,rating_2,rating_3,rating_4,rating_5,source_note
+1,Entire vegetation,Removal of plant parts (%),Up to 65,66–75,76–85,86–95,Over 95,
+2,Entire vegetation,Bare surface area (%),0–10,11–20,21–40,41–70,Over 70,
+3,Entire vegetation,Litter quantity,Heavy,Moderate,Sporadic,None,,Four categories in original.
+4,Entire vegetation,Litter condition,Accumulating,Replacing,None,,,Three categories in original.
+5,Entire vegetation,Therophyte increase (%) over standard,25,26–50,51–75,76–90,Over 90,Requires a standard; 25 is transcribed as printed.
+6,Entire vegetation,Decline in species richness (%),25,26–50,51–75,76–90,Over 90,Requires baseline/standard; 25 is transcribed as printed.
+7,Entire vegetation,Age distribution (key species),Sufficient,Insufficient,Few,,,Three categories in original.
+8,Herbaceous vegetation,Vigour,Optimum,Slightly pedestalled,Pedestalled,"Pale, highly pedestalled",,Four categories in original.
+9,Herbaceous vegetation,Seeds of climax species in soil,Abundant,Moderate,Slight,Sporadic,None,
+10,Herbaceous vegetation,Botanical composition of climax species,25–40,10–<25,1–<10,<1,,Four categories in original.
+11,Herbaceous vegetation,Total basal cover (%),4–8,3–6,2,1,<1,Ranges overlap in the published table; manual verification required.
+12,Herbaceous vegetation,Basal cover of climax species (%),Over 50,25–<25,20–<25,5–<20,<5,Rating 2 is internally inconsistent in scanned source; do not auto-classify.
+13,Herbaceous vegetation,RIV of climax species,Over 25,10–<25,6–<10,1–<6,<1,
+14,Herbaceous vegetation,Biomass contribution of climax species (%),Over 50,25–<50,10–<25,5–<10,<1,Original table has an apparent gap between 1 and 5; manual review.
+15,Herbaceous vegetation,Existing biomass as % potential biomass,Over 60,40–<60,25–<40,10–<25,<10,Requires potential biomass estimate.
+16,Herbaceous vegetation,Carrying capacity (ACU/100 ha),20,17,13,5,None,Discrete values as printed; Table 5 provides further context.
+17,Herbaceous vegetation,Grazing intensity,Light,Moderate,Heavy,Very heavy,,Four categories in original.
+18,Woody perennials,Percent plants showing hedging,Absent,50,75,100,,Four categories in Table 7; Table 1 also describes hedging.
+19,Woody perennials,Browse lines,Absent,Apparent,Evident,,,Three categories in original.
+20,Woody perennials,Browsing damage,Light,Light to moderate,Moderate,Moderate to heavy,Heavy,Table 3 separately gives ocular damage ratings 0–6.
+21,Woody perennials,Increase in relative density of unpalatable species,10–20,21–40,41–60,61–80,>80,
+22,Woody perennials,Relative density of key/climax species,40,30–<40,10–<30,1–<10,<1,40 is transcribed as printed.
+23,Woody perennials,RIV of key/climax species,Over 20,10–<20,5–<10,1–<5,<1,
+24,Woody perennials,% decline in total number of plants/ha,50,26–40,41–60,61–80,>80,First value appears as 50 in Table 7; conflicts with prose on page 57; do not auto-classify.
+25,Woody perennials,Dominance–diversity curves,Lognormal,Partly lognormal,Lognormal to geometric,Geometric,,Four categories in original.
