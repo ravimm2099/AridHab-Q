@@ -1,5 +1,22 @@
 # AridHab-Q — Integrated Habitat Degradation Assessment
 
+# AridHab-Q: Integrated Habitat Degradation Assessment
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23697818.svg)](https://doi.org/10.5281/zenodo.23697818)
+
+**Developer:** Dr. Manish Mathur  
+**Affiliation:** ICAR–Central Arid Zone Research Institute, Jodhpur, India  
+**Version:** 2.0.2  
+**Software DOI:** https://doi.org/10.5281/zenodo.23697818
+
+## Citation
+
+Mathur, M. (2026). AridHab-Q: Integrated Habitat
+Degradation Assessment (Version 2.0.2)
+[Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.23697818
+  
+
 **Dr. Manish Mathur**, ICAR-Central Arid Zone Research Institute, Jodhpur, India.
 Contact: eco5320@gmail.com; manish.mathur@icar.org.in.
 
