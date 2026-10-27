@@ -1,3 +1,4 @@
+
 cff-version: 1.2.0
 message: "If you use AridHab-Q, please cite the software release and accompanying methodology."
 title: "AridHab-Q: Integrated Habitat Degradation Assessment"
@@ -5,6 +6,10 @@ type: software
 authors:
   - family-names: Mathur
     given-names: Manish
-date-released: 2026-10-26
-version: "2026.10"
-repository-code: "https://github.com/REPLACE_WITH_OWNER/AridHab-Q"
+    orcid: "https://orcid.org/0000-0001-6794-7408"
+    affiliation: "ICAR-Central Arid Zone Research Institute, Jodhpur, India"
+date-released: 2026-10-27
+repository-code: "https://github.com/ravimm2099/AridHab-Q"
+version: "2.0.2"
+doi: "10.5281/zenodo.23697818"
+  
